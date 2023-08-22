@@ -18,7 +18,6 @@ int verificaNumeroPrimo(int number);
 
 int main(int argc, char *argv[]){
     int number = atoi(argv[1]);
-    printf("%d\n", number);
     int returnOfFunction = verificaNumeroPrimo(number);
 
     if (returnOfFunction == 1){
