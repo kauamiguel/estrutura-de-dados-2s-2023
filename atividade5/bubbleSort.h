@@ -1,0 +1,1 @@
+void sortArray(char ararys[][40], int size);
