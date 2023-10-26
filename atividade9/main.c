@@ -48,6 +48,7 @@ int main(){
         fscanf(csvFile, "%f", &valueRead);
         printf("Reading : %.2f\n", valueRead);
         insertValue(valueRead, unsortedList);
+        insertSorted(sortedList, valueRead);
     }while(!feof(csvFile));
 
 
