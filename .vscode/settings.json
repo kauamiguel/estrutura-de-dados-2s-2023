@@ -3,6 +3,20 @@
         "stdlib.h": "c",
         "stdio.h": "c",
         "queue.h": "c",
-        "__node_handle": "c"
+        "__node_handle": "c",
+        "hash_table.h": "c",
+        "__locale": "c",
+        "__bit_reference": "c",
+        "atomic": "c",
+        "bitset": "c",
+        "deque": "c",
+        "__memory": "c",
+        "limits": "c",
+        "locale": "c",
+        "optional": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "vector": "c"
     }
 }
